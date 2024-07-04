@@ -15,6 +15,8 @@
 # Installation:
 - ensure that the dependancies are added and started
 - add rex-notes to your resources folder
+- items have already been added to rsg-core check you have the latest version
+- images have already been added to rsg-core check you have the latest version
 - add the following table to your database : rex-notes.sql
 
 # Starting the resource:
